@@ -1,0 +1,5 @@
+hello madhav you have successfully created this new file to test this writeFileSync method that comes in the file system module : hello this is first text file  
+ hello this is second text file 
+ test hello madhav you have successfully created this new file to test this writeFileSync method that comes in the file system module : hello this is first text file  
+ hello this is second text file 
+ test 

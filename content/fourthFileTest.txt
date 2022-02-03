@@ -1,0 +1,2 @@
+here is new for example of callback function to read and write in file 
+hello this is first text file 
